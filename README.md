@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SYSUKili
-- 👀 I’m interested in R,statistic learing,quarto
-- 🌱 I’m currently learning R
+- 👋 Hi, I’m @sysukili  currently studying at Sun Yat-sen University
+- 👀 I’m interested in R,statistic learning,quarto,casual inference
+- 🌱 I’m currently learning R&Python
 - 💞️ I’m looking to collaborate on R
 - 📫 How to reach me sysukili@gmail.com
 - 😄 Pronouns: ...
